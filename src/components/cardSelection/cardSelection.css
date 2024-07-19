@@ -1,0 +1,32 @@
+.custom__card{
+  width: 18rem;
+}
+.custom__card-container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 90vh;
+}
+.custom__card-container_inner{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.custon__card-ai{
+  margin-left: 30px;
+  border: none;
+}
+.custom__card-container h1{
+  margin-bottom: 30px;
+  font-size: 50px;
+  font-weight: 600;
+
+}
+.custom__bg{
+  background-color: #1c333e;
+  border: none;
+}
+.custom-text{
+    color: #dcecf4;
+}

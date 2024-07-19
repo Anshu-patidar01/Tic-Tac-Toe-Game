@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.custom__nav-text_color{
+  color:#dfdfdf;
+  font-size: 20px;
+}
+
+.custom__nav-bg_color{
+  background-color: #3c6e87;
+}
+h3 span{
+  color: rgb(1, 17, 23);
+}
+h3{
+  font-weight: 700;
+}
